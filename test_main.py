@@ -1,5 +1,5 @@
 import pytest
-from main import HeadHunterAPI, Vacancy, JSONSaver, user_interaction
+from main import HeadHunterAPI
 
 
 @pytest.fixture
